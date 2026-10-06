@@ -1,0 +1,41 @@
+p{
+   color: blue;
+}
+ *{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ }
+
+ body {
+    font-family: poppins, sans-serif;   
+ }
+
+ main {
+    max-width: 900px;
+    margin: 0 auto;
+ }
+
+ img {
+    width: 150%;
+    height: 150%;
+    border-radius: 50px;
+ }
+ a:hover,
+ button:hover {
+    color: red;
+ }
+ input:focus,
+ select:focus {
+    border-color: rgb(24, 39, 102);
+ }
+
+ nav > a { 
+    margin-right: 20px;
+ }
+  
+
+ 
+ 
+ 
+ 
